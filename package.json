@@ -1,0 +1,19 @@
+{
+  "name": "@fredabila/customtoast",
+  "version": "1.0.1",
+  "description": "Present Custom Toast Messages to Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "custom",
+    "toast",
+    "toast",
+    "toast",
+    "for",
+    "ios"
+  ],
+  "author": "Frederick Abila",
+  "license": "ISC"
+}
