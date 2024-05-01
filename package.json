@@ -1,6 +1,6 @@
 {
   "name": "@fredabila/customtoast",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Present Custom Toast Messages to Android and iOS",
   "main": "index.js",
   "scripts": {
